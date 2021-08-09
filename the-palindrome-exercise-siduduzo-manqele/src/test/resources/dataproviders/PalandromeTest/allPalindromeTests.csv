@@ -1,0 +1,11 @@
+testID,testDescription,text,palidromeExpectedMessage
+1,we are testing word [stats] If is palindrome,stats,Yes! stats reversed is stats
+2,we are testing phrase [step on no pets] if is palindrome,step on no pets,Yes! step on no pets reversed is step on no pets
+3,we are testing number [1001] if is Palindrome,1001,Yes! 1001 reversed is 1001
+4,we are testing date 12/11/21 if is palidrome,12/11/21,Yes! 12/11/21 reversed is 12/11/21
+5,we are testing character [alt22tla] If is palindrome,alt22tla,Yes! alt22tla reversed is alt22tla
+6,we are testing word [mama] If is not palindrome,mama,No! mama reserved is amam
+7,we are testing year [2021] if is not palindrome,2021,No! 2021 reserved is 1202
+8,we are testing number [3535] if is not palindrome,3535,No! 3535 reserved is 5353
+9,we are testing date [18/10/21] if is not palindrome,18/10/21,No! 18/10/21 reserved is 12/01/81
+10,we are testing case sensitive palidrome word [Pep] if is not palindrome,Pep,No! Pep reserved is peP

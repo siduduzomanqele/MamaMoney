@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="AllTests" verbose="1">
+
+	<test name="PositiveTests-CH">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class
+				name="mamaMoney.palindrome.tests.PalandromeTest">
+			</class>
+		</classes>
+	</test>
+
+
+
+	<!-- <test name="NegativeTests"> <classes> <class name="co.za.redpandasoftware.revolvingcredit.NegativeTests"/> 
+		</classes> </test> -->
+
+</suite>
