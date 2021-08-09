@@ -20,3 +20,6 @@
 
 ### Dev standard
 - Declaraton of variables are in a form of camelCase.
+
+### Questions and Answer
+- Ypu will find Test Cases, Test Plan Document and Defects reports from the here: MamaMoney/the-palindrome-exercise-siduduzo-manqele/TestCases-TestPlan-And-Questions/
